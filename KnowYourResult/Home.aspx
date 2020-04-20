@@ -20,7 +20,7 @@
         <div class="container">
         <div class ="container-fluid" style="font-style: normal; font-weight: bold; font-size: large; font-family: Castellar; /*color: #000099;*/ text-transform: capitalize; /*background-color: #CCCCCC;*/ /*background-image: url('39441118-education-wallpapers.jpg');*/" title="KnowYourResult" >
              <h1 style="font-family: 'MV Boli'">Result </h1>
-             <h1 style="font-family: 'MV Boli'">Analysis</h1>
+             <h1 style="font-family: 'MV Boli'">Generator</h1>
              <p class="text-center" id="b"><a href="GetResult.aspx" class="btn btn-info" role="button">Get Started</a></p>   
             </div>  
        </div>     
